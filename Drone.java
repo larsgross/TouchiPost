@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class Drone here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Christian Cidecian, Vithun Knadeepan & Lars Gross) 
+ * @version (1.0.0)
  */
 public class Drone extends Actor
 {
